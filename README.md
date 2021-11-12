@@ -2,7 +2,7 @@
 
 ### Stack
 
-<a href="https://gamy-kumquat-080.notion.site/fd6ac5fdaa414fd3b64cb188f3af49ce" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://another-pro.notion.site/fd6ac5fdaa414fd3b64cb188f3af49ce" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://github.com/blingblin-g" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/SEOUL-000000?style=flat-square&logo=42&logoColor=white"/></a>
 
