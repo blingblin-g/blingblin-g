@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello_World&animation=scaleIn )
+
 ### Stack
 
 <a href="https://another-pro.notion.site/fd6ac5fdaa414fd3b64cb188f3af49ce" target="_blank"><img src="https://img.shields.io/badge/Notion-424242?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -36,3 +38,5 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&section=footer)
