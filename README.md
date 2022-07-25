@@ -31,8 +31,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=blingblin-g&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![blingblin-g's GitHub stats](https://github-readme-stats.vercel.app/api?username=blingblin-g)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![blingblin-g's GitHub stats](https://github-readme-stats.vercel.app/api?username=blingblin-g)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psycheros)](https://solved.ac/psycheros/)
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blingblin-g)](https://git.io/streak-stats) -->
 
 
