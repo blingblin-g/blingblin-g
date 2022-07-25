@@ -29,7 +29,7 @@
 
 # 🎖 Status 🎖
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=blingblin-g&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=blingblin-g&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![blingblin-g's GitHub stats](https://github-readme-stats.vercel.app/api?username=blingblin-g)](https://github.com/anuraghazra/github-readme-stats)
 
